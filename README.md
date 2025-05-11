@@ -13,9 +13,7 @@ A fun and interactive Python GUI application to test and improve your typing spe
 - ⌨️ Submit via **Enter key** or button  
 
 ## 👀 Preview
-
-Here’s a glimpse of the Typing Speed Tester interface:
-![Uploading Screenshot 2025-05-11 at 2.06.52 PM.png…]()
+<img width="703" alt="Screenshot 2025-05-11 at 2 06 52 PM" src="https://github.com/user-attachments/assets/3b58787a-9811-4771-8707-1d8ebdeb3013" />
 
 
 > 📸 *Make sure to add a screenshot named `preview.png` in your project folder.*
